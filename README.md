@@ -92,7 +92,15 @@ tion of each function
 ers the full page and added another background image on which the grid is
  present on which the game is to be played
 
+ 
+
 <img width="361" alt="image" src="https://github.com/Nitsinghtomar/Minesweeper_cricket/assets/134151806/60f3dfcd-8a6b-46a5-a596-86fa52bf0f6e">
 
 
- 
+
+ <img width="341" alt="image" src="https://github.com/Nitsinghtomar/Minesweeper_cricket/assets/134151806/56e28ab8-4143-4229-981d-7c4df1b3793d">
+
+
+
+<img width="481" alt="image" src="https://github.com/Nitsinghtomar/Minesweeper_cricket/assets/134151806/e25e5626-380d-4a96-a4ae-e18601f36069">
+
