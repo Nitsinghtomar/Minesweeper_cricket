@@ -1,5 +1,6 @@
 # Minesweeper_cricket
 1 ABOUTGAME
+
  The game is mixture of cricket and minesweeper. It involves a 10X10 grid
  consisting of 100 blocks . There are 11 fielders distributed randomly on the
  given grid anf rest of the grid randomly distributed runs. There are two players
@@ -41,6 +42,7 @@
  
  3 LISTOFFUNCTIONSUSED:-Briefdescrip
 tion of each function
+
  1-Random Fielder Generation (): Generating random positions for fielders
  on the game board.
  
@@ -77,6 +79,7 @@ tion of each function
  12-Game Start (): Calling the init() function to start the game.
 
 4 CUSTOMIZATION
+
  1-Multiplayer : The game is played by two players instead of one.
  
  2-Highest Score : The game displays the highest score by any individual
@@ -88,6 +91,8 @@ tion of each function
  4-Visual effects : Added a full background image of a stadium which cov
 ers the full page and added another background image on which the grid is
  present on which the game is to be played
+
+<img width="361" alt="image" src="https://github.com/Nitsinghtomar/Minesweeper_cricket/assets/134151806/60f3dfcd-8a6b-46a5-a596-86fa52bf0f6e">
 
 
  
